@@ -1,4 +1,6 @@
 # What will we do in this project?
+## [Detailed Project](https://nbviewer.org/github/davidefilosa/CoxProportionalHazardRegression/blob/master/Cox%20Proportional%20Hazard%20Regression.ipynb)
+
 
 In this project we will take a look at the survival rate of patients with advanced lung cancer using **the Cox proportional-hazards model**.
 
